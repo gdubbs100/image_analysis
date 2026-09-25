@@ -1,0 +1,15 @@
+[project]
+name = "image-analysis"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.11.2",
+    "opencv-python>=5.0.0.93",
+    "pillow>=12.3.0",
+    "torch>=2.14.0",
+    "torchvision>=0.29.0",
+    "ultralytics>=8.4.162",
+]
